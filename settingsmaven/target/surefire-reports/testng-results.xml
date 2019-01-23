@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="117814" started-at="2019-01-22T12:04:44Z" finished-at="2019-01-22T12:06:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="117814" started-at="2019-01-22T12:04:44Z" finished-at="2019-01-22T12:06:42Z">
+      <class name="learningmaven.settings.NewtourTest">
+        <test-method status="PASS" signature="regtour()[pri:0, instance:learningmaven.settings.NewtourTest@77b52d12]" name="regtour" duration-ms="117799" started-at="2019-01-22T17:34:44Z" finished-at="2019-01-22T17:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regtour -->
+      </class> <!-- learningmaven.settings.NewtourTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
